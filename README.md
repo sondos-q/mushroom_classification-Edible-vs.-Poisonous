@@ -59,7 +59,7 @@ The **Random Forest Classifier** was selected as the final model due to its robu
 ![img.png](img.png)
 
 
-**Receiver Operating Characteristic (ROC) Curve**
+**(ROC) Curve**
 
 ![img_1.png](img_1.png)
 
